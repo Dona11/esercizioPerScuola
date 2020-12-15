@@ -19,7 +19,7 @@ public class EsercizioPerGitTest {
         
         int conta = 0;
         
-        for(int i = 1; i < 11; i++){
+        for(int i = 4; i < 14; i++){
         
 	    System.out.println("Il contatore si aggiorna");
 
